@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome
 
-<!--
-**mxyzplk/mxyzplk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm a student in Computer Sciences. you can see my cv with all my current and previous experiences [here](https://mxyzplk.gitlab.io/cv/)
 
-Here are some ideas to get you started:
+My current area of study is: **Devops**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Studying and working atm with:
+- AWS & Azure
+- Jenkins
+- Terraform
+- Kubernetes
+- Docker
+- Ansible
+- Python
+- Shell script
