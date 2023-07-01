@@ -2,9 +2,11 @@
 
 Hello, I'm a student in Computer Sciences. you can see my cv with all my current and previous experiences [here](https://mxyzplk.gitlab.io/cv/)
 
-My current area of study is: **Devops**
+My current area of study is: **Python**
 
-Studying and working atm with:
+I am developing tools for aircraft design using python in order to study the disciplines and develop myself in the language.
+
+Preiously working with with:
 - AWS & Azure
 - Jenkins
 - Terraform
